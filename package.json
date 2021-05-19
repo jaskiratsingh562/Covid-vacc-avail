@@ -1,0 +1,27 @@
+{
+  "name": "vaccine-availablity",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@dietime/react-native-date-picker": "1.1.2",
+    "@react-navigation/native": "5.9.4",
+    "@react-navigation/stack": "5.14.5",
+    "expo-linear-gradient": "9.1.0",
+    "react": "17.0.*",
+    "react-dom": "17.0.2",
+    "react-native-elements": "3.4.1",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "3.2.0",
+    "react-native-web": "0.16.*",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
